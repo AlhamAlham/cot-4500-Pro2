@@ -47,4 +47,5 @@ python -m unittest discover src/test
 The approxiation/matrix algorithms can be used by calling the corresponding functions in assignment_2.py.
 Example usage and further details on the implementation can be found in the code comments.
 
+Heres the Output for Assignment_2
 ![image](https://github.com/user-attachments/assets/94622d8e-d7f6-4953-abd2-09ac9dd60631)
